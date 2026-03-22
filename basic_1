@@ -1,0 +1,19 @@
+
+interface commands - 
+ip addr -- show ip address
+ip route -- display routing table
+ip link  -- manage network interface
+
+Connectivity Testing - 
+• ping - test network reachability  (imp)
+• traceroute, mtr - trace network path to destination
+• curl, wget - make HTTP requests   (imp)
+• nc (netcat) - test port connectivity  
+
+Dns(domain -> port) -
+nslookup <domain_name>  or dig <domain_name> //It checks domain-related DNS records
+dig <dimain_name> A  //dress record
+
+
+
+
