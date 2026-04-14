@@ -1,0 +1,6 @@
+
+DNS, or domain Name system,is the internet service that translate human-friendly domain names like www.example.com into a machine readable ip-address
+
+step-1 :
+sudo apt install apache2
+
